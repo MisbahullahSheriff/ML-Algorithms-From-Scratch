@@ -1,5 +1,12 @@
 # ML Algorithms From Scratch
 
+## Table of Contents:
+- [Overview](#overview)
+- [Tools Used](#tools-used)
+- [Algorithms](#algorithms)
+- [Note](#note)
+- [Let's Connect](#lets-connect)
+
 ## Overview 
 - This repository serves as a comprehensive compilation of independently implemented machine learning algorithms from the ground up.
 - The primary objective of this project is to demonstrate a profound grasp of the theoretical foundations and mathematical principles underpinning prominent machine learning algorithms.
