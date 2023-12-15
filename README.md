@@ -27,7 +27,7 @@
 - [Naive Bayes]
 - [Support Vector Machines]
 - [K-Nearest Neighbours](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/K-Nearest%20Neighbours)
-- [Bagging]
+- [Bagging](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Bagging)
 - [AdaBoost]
 - [Gradient Boosting]
 
