@@ -25,7 +25,7 @@
 - [Gradient Descent](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Gradient%20Descent)
 - [K-Means](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/K-Means)
 - [Naive Bayes]
-- [Support Vector Machines]
+- [Support Vector Machines](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Support%20Vector%20Machine)
 - [K-Nearest Neighbours](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/K-Nearest%20Neighbours)
 - [Bagging](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Bagging)
 - [AdaBoost]
