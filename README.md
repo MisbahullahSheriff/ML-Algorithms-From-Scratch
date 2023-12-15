@@ -23,10 +23,10 @@
 - [Linear Regression](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Linear%20Regression)
 - [Logistic Regression](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Logistic%20Regression)
 - [Gradient Descent](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Gradient%20Descent)
-- [K-Means]
+- [K-Means](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/K-Means)
 - [Naive Bayes]
 - [Support Vector Machines]
-- [K-Nearest Neighbours]
+- [K-Nearest Neighbours](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/K-Nearest%20Neighbours)
 - [Bagging]
 - [AdaBoost]
 - [Gradient Boosting]
