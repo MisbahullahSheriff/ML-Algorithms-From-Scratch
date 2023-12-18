@@ -1,3 +1,3 @@
 # Naive Bayes from Scratch
 
-### Will be uploaded soon
+### Work in progress... will be uploaded soon :)
