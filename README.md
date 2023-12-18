@@ -29,7 +29,7 @@
 - [K-Nearest Neighbours](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/K-Nearest%20Neighbours)
 - [Bagging](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Bagging)
 - [AdaBoost](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/AdaBoost)
-- [Gradient Boosting]
+- [Gradient Boosting](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Gradient%20Boosting)
 
 ## Note:
 - Thank you for going through my work 😀
