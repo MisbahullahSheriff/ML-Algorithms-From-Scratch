@@ -30,6 +30,7 @@
 - [Bagging](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Bagging)
 - [AdaBoost](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/AdaBoost)
 - [Gradient Boosting](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Gradient%20Boosting)
+- [Principal Component Analysis](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Principal%20Component%20Analysis)
 
 ## Note:
 - Thank you for going through my work 😀
